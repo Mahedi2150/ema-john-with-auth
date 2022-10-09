@@ -35,8 +35,12 @@
     background-color: #FFE0B4;
     border-radius: 5px;
     border: none;
+    margin-bottom: 10px;
     font-size: 20px;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .form-submit:hover{
     background-color: #ffa632

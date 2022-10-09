@@ -10,6 +10,11 @@
     top: 0;
     z-index: 1;
 }
+.header-link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .header a{
     color: #FFFFFF;
     text-decoration: none;
@@ -20,3 +25,4 @@
 .header a:hover{
     color: orange;
 }
+
